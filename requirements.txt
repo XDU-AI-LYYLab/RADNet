@@ -1,0 +1,302 @@
+# Name                    Version                   Build  Channel
+_ipyw_jlab_nb_ext_conf    0.1.0            py36he11e457_0    defaults
+absl-py                   0.7.1                     <pip>
+addict                    2.2.1                     <pip>
+alabaster                 0.7.10           py36h306e16b_0    defaults
+albumentations            0.5.1                     <pip>
+altgraph                  0.17                      <pip>
+anaconda                  5.2.0                    py36_3    defaults
+anaconda-client           1.6.14                   py36_0    defaults
+anaconda-navigator        1.8.7                    py36_0    defaults
+anaconda-project          0.8.2            py36h44fb852_0    defaults
+asn1crypto                0.24.0                   py36_0    defaults
+astor                     0.8.0                     <pip>
+astroid                   1.6.3                    py36_0    defaults
+astropy                   3.0.2            py36h3010b51_1    defaults
+attrs                     18.1.0                   py36_0    defaults
+babel                     2.5.3                    py36_0    defaults
+backcall                  0.1.0                    py36_0    defaults
+backports                 1.0              py36hfa02d7e_1    defaults
+backports.shutil_get_terminal_size 1.0.0            py36hfea85ff_2    defaults
+beautifulsoup4            4.6.0            py36h49b8c8c_1    defaults
+bitarray                  0.8.1            py36h14c3975_1    defaults
+biwrap                    0.1.6                     <pip>
+bkcharts                  0.2              py36h735825a_0    defaults
+blas                      1.0                         mkl    defaults
+blaze                     0.11.3           py36h4e06776_0    defaults
+bleach                    2.1.3                    py36_0    defaults
+blosc                     1.14.3               hdbcaa40_0    defaults
+bokeh                     0.12.16                  py36_0    defaults
+boto                      2.48.0           py36h6e4cd66_1    defaults
+bottleneck                1.2.1            py36haac1ea0_0    defaults
+bzip2                     1.0.6                h14c3975_5    defaults
+ca-certificates           2018.03.07                    0    defaults
+cairo                     1.14.12              h7636065_2    defaults
+certifi                   2018.4.16                py36_0    defaults
+cffi                      1.11.5           py36h9745a5d_0    defaults
+chardet                   3.0.4            py36h0f667ec_1    defaults
+click                     6.7              py36h5253387_0    defaults
+cloudpickle               0.5.3                    py36_0    defaults
+clyent                    1.2.2            py36h7e57e65_1    defaults
+colorama                  0.3.9            py36h489cec4_0    defaults
+conda                     4.5.4                    py36_0    defaults
+conda-build               3.10.5                   py36_0    defaults
+conda-env                 2.6.0                h36134e3_1    defaults
+conda-verify              2.0.0            py36h98955d8_0    defaults
+contextlib2               0.5.5            py36h6c84a62_0    defaults
+cryptography              2.2.2            py36h14c3975_0    defaults
+curl                      7.60.0               h84994c4_0    defaults
+cycler                    0.10.0           py36h93f1223_0    defaults
+cython                    0.28.2           py36h14c3975_0    defaults
+cytoolz                   0.9.0.1          py36h14c3975_0    defaults
+dask                      0.17.5                   py36_0    defaults
+dask-core                 0.17.5                   py36_0    defaults
+datashape                 0.5.4            py36h3ad6b5c_0    defaults
+dbus                      1.13.2               h714fa37_1    defaults
+decorator                 4.3.0                    py36_0    defaults
+distributed               1.21.8                   py36_0    defaults
+docopt                    0.6.2                     <pip>
+docutils                  0.14             py36hb0f60f5_0    defaults
+easydict                  1.9                       <pip>
+entrypoints               0.2.3            py36h1aec115_2    defaults
+et_xmlfile                1.0.1            py36hd6bccc3_0    defaults
+expat                     2.2.5                he0dffb1_0    defaults
+fastcache                 1.0.2            py36h14c3975_2    defaults
+filelock                  3.0.4                    py36_0    defaults
+flask                     1.0.2                    py36_1    defaults
+flask-cors                3.0.4                    py36_0    defaults
+fontconfig                2.12.6               h49f89f6_0    defaults
+freetype                  2.8                  hab7d2ae_1    defaults
+gast                      0.2.2                     <pip>
+get_terminal_size         1.0.0                haa9412d_0    defaults
+gevent                    1.3.0            py36h14c3975_0    defaults
+glib                      2.56.1               h000015b_0    defaults
+glob2                     0.6              py36he249c77_0    defaults
+gmp                       6.1.2                h6c8ec71_1    defaults
+gmpy2                     2.0.8            py36hc8893dd_2    defaults
+graphite2                 1.3.11               h16798f4_2    defaults
+greenlet                  0.4.13           py36h14c3975_0    defaults
+grpcio                    1.22.0                    <pip>
+gst-plugins-base          1.14.0               hbbd80ab_1    defaults
+gstreamer                 1.14.0               hb453b48_1    defaults
+h5py                      2.7.1            py36ha1f6525_2    defaults
+harfbuzz                  1.7.6                h5f0a787_1    defaults
+hdf5                      1.10.2               hba1933b_1    defaults
+heapdict                  1.0.0                    py36_2    defaults
+html5lib                  1.0.1            py36h2f9c1c0_0    defaults
+icu                       58.2                 h9c2bf20_1    defaults
+idna                      2.6              py36h82fb2a8_1    defaults
+imagecorruptions          1.1.0                     <pip>
+imageio                   2.3.0                    py36_0    defaults
+imagesize                 1.0.0                    py36_0    defaults
+imgaug                    0.4.0                     <pip>
+intel-openmp              2018.0.0                      8    defaults
+ipykernel                 4.8.2                    py36_0    defaults
+ipython                   6.4.0                    py36_0    defaults
+ipython_genutils          0.2.0            py36hb52b0d5_0    defaults
+ipywidgets                7.2.1                    py36_0    defaults
+isort                     4.3.4                    py36_0    defaults
+itsdangerous              0.24             py36h93cc618_1    defaults
+jbig                      2.1                  hdba287a_0    defaults
+jdcal                     1.4                      py36_0    defaults
+jedi                      0.12.0                   py36_1    defaults
+jinja2                    2.10             py36ha16c418_0    defaults
+jpeg                      9b                   h024ee3a_2    defaults
+jsonschema                2.6.0            py36h006f8b5_0    defaults
+jupyter                   1.0.0                    py36_4    defaults
+jupyter_client            5.2.3                    py36_0    defaults
+jupyter_console           5.2.0            py36he59e554_1    defaults
+jupyter_core              4.4.0            py36h7c827e3_0    defaults
+jupyterlab                0.32.1                   py36_0    defaults
+jupyterlab_launcher       0.10.5                   py36_0    defaults
+Keras                     2.2.0                     <pip>
+Keras-Applications        1.0.2                     <pip>
+Keras-Preprocessing       1.0.1                     <pip>
+kiwisolver                1.0.1            py36h764f252_0    defaults
+lazy-object-proxy         1.3.1            py36h10fcdad_0    defaults
+libcurl                   7.60.0               h1ad7b7a_0    defaults
+libedit                   3.1.20170329         h6b74fdf_2    defaults
+libffi                    3.2.1                hd88cf55_4    defaults
+libgcc-ng                 7.2.0                hdf63c60_3    defaults
+libgfortran-ng            7.2.0                hdf63c60_3    defaults
+libpng                    1.6.34               hb9fc6fc_0    defaults
+libsodium                 1.0.16               h1bed415_0    defaults
+libssh2                   1.8.0                h9cfc8f7_4    defaults
+libstdcxx-ng              7.2.0                hdf63c60_3    defaults
+libtiff                   4.0.9                he85c1e1_1    defaults
+libtool                   2.4.6                h544aabb_3    defaults
+libxcb                    1.13                 h1bed415_1    defaults
+libxml2                   2.9.8                h26e45fe_1    defaults
+libxslt                   1.1.32               h1312cb7_0    defaults
+llvmlite                  0.23.1           py36hdbcaa40_0    defaults
+locket                    0.2.0            py36h787c0ad_1    defaults
+lxml                      4.2.1            py36h23eabaa_0    defaults
+lzo                       2.10                 h49e0be7_2    defaults
+Markdown                  3.1.1                     <pip>
+markupsafe                1.0              py36hd9260cd_1    defaults
+maskrcnn-benchmark        0.1                       <pip>
+matplotlib                2.2.2            py36h0e671d2_1    defaults
+mccabe                    0.6.1            py36h5ad9710_1    defaults
+mistune                   0.8.3            py36h14c3975_1    defaults
+mkl                       2018.0.2                      1    defaults
+mkl-service               1.1.2            py36h17a0993_4    defaults
+mkl_fft                   1.0.1            py36h3010b51_0    defaults
+mkl_random                1.0.1            py36h629b387_0    defaults
+mmcv                      0.4.3                     <pip>
+mmdet                     1.0rc1+2b8a5f8            <pip>
+more-itertools            4.1.0                    py36_0    defaults
+mpc                       1.0.3                hec55b23_5    defaults
+mpfr                      3.1.5                h11a74b3_2    defaults
+mpmath                    1.0.0            py36hfeacd6b_2    defaults
+msgpack-python            0.5.6            py36h6bb024c_0    defaults
+multipledispatch          0.5.0                    py36_0    defaults
+navigator-updater         0.2.1                    py36_0    defaults
+nbconvert                 5.3.1            py36hb41ffb7_0    defaults
+nbformat                  4.4.0            py36h31c9010_0    defaults
+ncurses                   6.1                  hf484d3e_0    defaults
+networkx                  2.1                      py36_0    defaults
+ninja                     1.9.0.post1               <pip>
+nltk                      3.3.0                    py36_0    defaults
+nose                      1.3.7            py36hcdf7029_2    defaults
+notebook                  5.5.0                    py36_0    defaults
+numba                     0.38.0           py36h637b7d7_0    defaults
+numexpr                   2.6.5            py36h7bf3b9c_0    defaults
+numpy                     1.17.2                    <pip>
+numpy                     1.14.3           py36hcd700cb_1    defaults
+numpy-base                1.14.3           py36h9be14a7_1    defaults
+numpydoc                  0.8.0                    py36_0    defaults
+odo                       0.5.1            py36h90ed295_0    defaults
+olefile                   0.45.1                   py36_0    defaults
+opencv-python             4.1.1.26                  <pip>
+opencv-python-headless    4.1.1.26                  <pip>
+openpyxl                  2.5.3                    py36_0    defaults
+openssl                   1.0.2o               h20670df_0    defaults
+packaging                 17.1                     py36_0    defaults
+pandas                    0.23.0           py36h637b7d7_0    defaults
+pandoc                    1.19.2.1             hea2e7c5_1    defaults
+pandocfilters             1.4.2            py36ha6701b7_1    defaults
+pango                     1.41.0               hd475d92_0    defaults
+parso                     0.2.0                    py36_0    defaults
+partd                     0.3.8            py36h36fd896_0    defaults
+patchelf                  0.9                  hf79760b_2    defaults
+path.py                   11.0.1                   py36_0    defaults
+pathlib2                  2.3.2                    py36_0    defaults
+patsy                     0.5.0                    py36_0    defaults
+pcre                      8.42                 h439df22_0    defaults
+pep8                      1.7.1                    py36_0    defaults
+pexpect                   4.5.0                    py36_0    defaults
+pickleshare               0.7.4            py36h63277f8_0    defaults
+pillow                    5.1.0            py36h3deb7b8_0    defaults
+Pillow                    8.0.1                     <pip>
+pip                       10.0.1                   py36_0    defaults
+pip                       19.3.1                    <pip>
+pixman                    0.34.0               hceecf20_3    defaults
+pkginfo                   1.4.2                    py36_1    defaults
+pluggy                    0.6.0            py36hb689045_0    defaults
+ply                       3.11                     py36_0    defaults
+pqi                       2.0.6                     <pip>
+prompt_toolkit            1.0.15           py36h17d85b1_0    defaults
+protobuf                  3.9.1                     <pip>
+psutil                    5.4.5            py36h14c3975_0    defaults
+ptyprocess                0.5.2            py36h69acd42_0    defaults
+py                        1.5.3                    py36_0    defaults
+pycocotools               2.0                       <pip>
+pycodestyle               2.4.0                    py36_0    defaults
+pycosat                   0.6.3            py36h0a5515d_0    defaults
+pycparser                 2.18             py36hf9f622e_1    defaults
+pycrypto                  2.6.1            py36h14c3975_8    defaults
+pycurl                    7.43.0.1         py36hb7f436b_0    defaults
+pyflakes                  1.6.0            py36h7bd6a15_0    defaults
+pygments                  2.2.0            py36h0d3125c_0    defaults
+PyInstaller               3.6                       <pip>
+pylint                    1.8.4                    py36_0    defaults
+pyodbc                    4.0.23           py36hf484d3e_0    defaults
+pyopenssl                 18.0.0                   py36_0    defaults
+pyparsing                 2.2.0            py36hee85983_1    defaults
+pyqt                      5.9.2            py36h751905a_0    defaults
+PyQt5                     5.13.0                    <pip>
+PyQt5_sip                 4.19.18                   <pip>
+pysocks                   1.6.8                    py36_0    defaults
+pytables                  3.4.3            py36h02b9ad4_2    defaults
+pytest                    3.5.1                    py36_0    defaults
+pytest-arraydiff          0.2                      py36_0    defaults
+pytest-astropy            0.3.0                    py36_0    defaults
+pytest-doctestplus        0.1.3                    py36_0    defaults
+pytest-openfiles          0.3.0                    py36_0    defaults
+pytest-remotedata         0.2.1                    py36_0    defaults
+python                    3.6.5                hc3d631a_2    defaults
+python-dateutil           2.7.3                    py36_0    defaults
+pytz                      2018.4                   py36_0    defaults
+PyWavelets                1.1.1                     <pip>
+pywavelets                0.5.2            py36he602eb0_0    defaults
+pyyaml                    3.12             py36hafb9ca4_1    defaults
+pyzmq                     17.0.0           py36h14c3975_0    defaults
+qt                        5.9.5                h7e424d6_0    defaults
+qtawesome                 0.4.4            py36h609ed8c_0    defaults
+qtconsole                 4.3.1            py36h8f73b5b_0    defaults
+qtpy                      1.4.1                    py36_0    defaults
+readline                  7.0                  ha6073c6_4    defaults
+requests                  2.18.4           py36he2e5f8d_1    defaults
+rope                      0.10.7           py36h147e2ec_0    defaults
+ruamel_yaml               0.15.35          py36h14c3975_1    defaults
+scikit-image              0.17.2                    <pip>
+scikit-image              0.13.1           py36h14c3975_1    defaults
+scikit-learn              0.19.1           py36h7aa7ec6_0    defaults
+scipy                     1.1.0            py36hfc37229_0    defaults
+scipy                     1.5.4                     <pip>
+seaborn                   0.8.1            py36hfad7ec4_0    defaults
+send2trash                1.5.0                    py36_0    defaults
+setuptools                39.1.0                   py36_0    defaults
+Shapely                   1.6.4.post2               <pip>
+simplegeneric             0.8.1                    py36_2    defaults
+singledispatch            3.4.0.3          py36h7a266c3_0    defaults
+sip                       4.19.8           py36hf484d3e_0    defaults
+six                       1.11.0           py36h372c433_1    defaults
+snappy                    1.1.7                hbae5bb6_3    defaults
+snowballstemmer           1.2.1            py36h6febd40_0    defaults
+sortedcollections         0.6.1                    py36_0    defaults
+sortedcontainers          1.5.10                   py36_0    defaults
+sphinx                    1.7.4                    py36_0    defaults
+sphinxcontrib             1.0              py36h6d0f590_1    defaults
+sphinxcontrib-websupport  1.0.1            py36hb5cb234_1    defaults
+spyder                    3.2.8                    py36_0    defaults
+sqlalchemy                1.2.7            py36h6b74fdf_0    defaults
+sqlite                    3.23.1               he433501_0    defaults
+statsmodels               0.9.0            py36h3010b51_0    defaults
+sympy                     1.1.1            py36hc6d1c1c_0    defaults
+tblib                     1.3.2            py36h34cf8b6_0    defaults
+tensorboard               1.10.0                    <pip>
+tensorboardX              1.9                       <pip>
+tensorflow-gpu            1.10.0                    <pip>
+tensorflow-plot           0.3.2                     <pip>
+termcolor                 1.1.0                     <pip>
+terminado                 0.8.1                    py36_1    defaults
+testpath                  0.3.1            py36h8cadb63_0    defaults
+tifffile                  2020.9.3                  <pip>
+tk                        8.6.7                hc745277_3    defaults
+toolz                     0.9.0                    py36_0    defaults
+torch                     1.3.1                     <pip>
+torchvision               0.4.2                     <pip>
+tornado                   5.0.2                    py36_0    defaults
+tqdm                      4.19.9                    <pip>
+traitlets                 4.3.2            py36h674d592_0    defaults
+typing                    3.6.4                    py36_0    defaults
+unicodecsv                0.14.1           py36ha668878_0    defaults
+unixodbc                  2.3.6                h1bed415_0    defaults
+urllib3                   1.22             py36hbe7ace6_0    defaults
+wcwidth                   0.1.7            py36hdf4376a_0    defaults
+webencodings              0.5.1            py36h800622e_1    defaults
+werkzeug                  0.14.1                   py36_0    defaults
+wheel                     0.31.1                   py36_0    defaults
+widgetsnbextension        3.2.1                    py36_0    defaults
+wrapt                     1.10.11          py36h28b7045_0    defaults
+xlrd                      1.1.0            py36h1db9f0c_1    defaults
+xlsxwriter                1.0.4                    py36_0    defaults
+xlwt                      1.3.0            py36h7b00a1f_0    defaults
+xz                        5.2.4                h14c3975_4    defaults
+yaml                      0.1.7                had09818_2    defaults
+yapf                      0.30.0                    <pip>
+zeromq                    4.2.5                h439df22_0    defaults
+zict                      0.1.3            py36h3a3bf81_0    defaults
+zlib                      1.2.11               ha838bed_2    defaults
+
